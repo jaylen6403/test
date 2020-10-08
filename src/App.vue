@@ -8,7 +8,7 @@
 
 <script>
 import VnAlert from './components/VnAlert.vue'
-import VnClosablePanel from './components/VnClosablePanel.vue'
+
 
 export default {
   name: 'app', 
